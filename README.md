@@ -2,4 +2,4 @@
 
 
 
-\social[Linkedin](https://www.linkedin.com/in/krishnapranayangara/)
+[![Linkedin]({https://img.shields.io/badge/LinkedIn-blue})](https://www.linkedin.com/in/krishnapranayangara/)
