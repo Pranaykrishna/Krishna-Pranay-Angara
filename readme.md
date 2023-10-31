@@ -16,7 +16,7 @@ I am a tech enthusiast. I love learning new technologies and exploring different
 - Salesforce Admin at Accenture.
 - Data Science Intern at Indian Institute of Technology, Bombay.
   
-Paper publication(https://ieeexplore.ieee.org/document/8987809)
+Paper publication (https://ieeexplore.ieee.org/document/8987809)
 -----------------
 (Shallow Landslides Monitoring Using the Internet of Things and Machine Learning Technique Vinay Kumar Singh; Vikram Vishal; Krishna Pranay Angara; T. N. Singh
 [2019 International Conference on Smart Systems and Inventive Technology (ICSSIT)])
