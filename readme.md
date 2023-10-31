@@ -6,12 +6,12 @@
 
 About
 --------------
-I am a tech enthusiast. I love learning new technologies and exploring different subject matters like Quantum Computing, Neuromorphic Computing and, Artificial Intelligence. I love to write articles and educate people on my findings. 
+I am a tech enthusiast. I love learning new technologies and exploring different subject matters like Quantum Computing, Neuromorphic Computing, and Artificial Intelligence. I love to write articles and educate people on my findings. 
 
 - I am currently working on NLP.
-- Independent blog writer in Medium.
-- I have been accepted by Qubit by Qubit's Coding school to study Quantum computing by google Quantum with a scholarship worth $1,195.
-- Lead Speaker in IEEE conference for paper publication.
+- Independent blog writer on Medium.
+- I have been accepted by Qubit by Qubit's Coding school to study Quantum computing by Google Quantum with a scholarship worth $1,195.
+- Lead Speaker at IEEE conference for paper publication.
 - Selected for Google’s build for digital India Bootcamp.
 - Salesforce Admin at Accenture.
 - Data Science Intern at Indian Institute of Technology, Bombay.
