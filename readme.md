@@ -10,7 +10,7 @@ I am a tech enthusiast. I love learning new technologies and exploring different
 
 - I am currently working on NLP.
 - Independent blog writer in Medium.
-- I have been accepted to me to study Quantum computing from IBM Quantum (Qubit by Qubit's Coding school) with a scholarship worth $1,195.
+- I have been accepted by Qubit by Qubit's Coding school to study Quantum computing by google Quantum with a scholarship worth $1,195.
 - Lead Speaker in IEEE conference for paper publication.
 - Selected for Google’s build for digital India Bootcamp.
 - Salesforce Admin at Accenture.
