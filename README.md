@@ -2,4 +2,4 @@
 
 
 
-[![LinkedinBadge](https://img.shields.io/badge/-LinkedIn-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnapranayangara/)](https://www.linkedin.com/in/krishnapranayangara/)
+![Linkedin]({https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bif8DitssQyKamG03WdJg8A%3D%3D}) (https://www.linkedin.com/in/krishnapranayangara/)
