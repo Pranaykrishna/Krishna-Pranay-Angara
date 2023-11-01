@@ -46,7 +46,7 @@ Certifications
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFA500?style=flat&logo=visual-studio&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)
 
 #### DevOps:
 
