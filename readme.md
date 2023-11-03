@@ -40,6 +40,13 @@ Certifications
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+### Technologies:
+![Deep learning](https://img.shields.io/badge/-Deeplearning-4285F4?style=flat&logo=Machinelearning&logoColor=green)
+![Computer Vision](https://img.shields.io/badge/-ComputerVision-512BD4?style=flat&logo=Machinelearning&logoColor=green)
+![NLP](https://img.shields.io/badge/-NLP-F99F1C?style=flat&logo=Machinelearning&logoColor=green)
+![Node JS](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=Node.js&logoColor=339933)
+![Nest JS](https://img.shields.io/badge/-NestJs-181717?style=flat&logo=NestJs&logoColor=E0234E)
+![Rest API](https://img.shields.io/badge/-RestAPI-FF160B?style=flat&logo=RestAPI&logoColor=E0234E)
 
 #### Utilities:
 
