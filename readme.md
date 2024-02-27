@@ -4,6 +4,8 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-FFFFFF?logo=medium&logoColor=black&style=for-the-badge)](https://medium.com/@persspectivecomputing)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FFFFFF?logo=gmail&logoColor=red&style=for-the-badge)](krishnapranay.angara@gmail.com)
 
+#### **Resume - [Angara_Resume.pdf](https://github.com/krishnapranayangara/krishnapranayangara/files/14421901/Angara_Resume.pdf)
+
 About
 --------------
 I am a tech enthusiast. I love learning new technologies and exploring different subject matters like Quantum Computing, Neuromorphic Computing, and Artificial Intelligence. I love to write articles and educate people on my findings. 
