@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-FFFFFF?logo=medium&logoColor=black&style=for-the-badge)](https://medium.com/@persspectivecomputing)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FFFFFF?logo=gmail&logoColor=red&style=for-the-badge)](krishnapranay.angara@gmail.com)
 
-#### **Resume - [Angara_Resume.pdf](https://github.com/krishnapranayangara/krishnapranayangara/files/14421901/Angara_Resume.pdf)
+#### **Resume - [Angara_Resume_DS.pdf](https://github.com/krishnapranayangara/krishnapranayangara/files/14938371/Angara_Resume_DS.pdf)
 
 About
 --------------
