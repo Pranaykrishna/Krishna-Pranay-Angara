@@ -4,18 +4,24 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-FFFFFF?logo=medium&logoColor=black&style=for-the-badge)](https://medium.com/@persspectivecomputing)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FFFFFF?logo=gmail&logoColor=red&style=for-the-badge)](krishnapranay.angara@gmail.com)
 
-#### **Resume - [Angara_Resume_DS.pdf](https://github.com/krishnapranayangara/krishnapranayangara/files/14938371/Angara_Resume_DS.pdf)
+#### **Resume [SDE.pdf](https://github.com/user-attachments/files/16241320/SDE.pdf)
+- 
 
 About
 --------------
 I am a tech enthusiast. I love learning new technologies and exploring different subject matters like Quantum Computing, Neuromorphic Computing, and Artificial Intelligence. I love to write articles and educate people on my findings. 
 
 - I work on ML, NLP, and computer vision.
+- I am a full stack engineer with experience in building Applications using springboot and react.
 - Independent blog writer on Medium.
 - I have been accepted by Qubit by Qubit's Coding school to study Quantum computing by Google Quantum with a scholarship worth $1,195.
 - Lead Speaker at IEEE conference for paper publication.
 - Selected for Google’s build for digital India Bootcamp.
-- Salesforce Admin at Accenture.
+  
+Experience
+--------------
+- Graduate Research Assistant at University of Central florida(UCF)
+- Ex-Software Engineer at Accenture.
 - Data Science Intern at Indian Institute of Technology, Bombay.
   
 Paper publication (https://ieeexplore.ieee.org/document/8987809)
@@ -25,6 +31,10 @@ Paper publication (https://ieeexplore.ieee.org/document/8987809)
 
 Certifications
 ----------------
+- BOOMI Professional Developer API Management (Issued June 2024)
+- BOOMI Professional Developer API Design (Issued June 2024)
+- BOOMI Professional Developer Certified (Issued June 2024)
+- BOOMI Associate Developer Certified (Issued June 2024)
 - Python Basics - Udemy (Issued Nov 2018)
 - Data Science Internship at IIT Bombay - Indian Institute of Technology, Bombay (Issued Jun 2019)
 - Certificate of Presentation - IEEE (Issued Nov 2019)
