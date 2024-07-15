@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FFFFFF?logo=gmail&logoColor=red&style=for-the-badge)](krishnapranay.angara@gmail.com)
 
 #### **Resume [SDE.pdf](https://github.com/user-attachments/files/16241320/SDE.pdf)
-- 
 
 About
 --------------
