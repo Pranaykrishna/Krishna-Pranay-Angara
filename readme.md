@@ -6,6 +6,7 @@
 
 #### **Resume [SDE.pdf](https://github.com/user-attachments/files/16241320/SDE.pdf)
 
+![](https://komarev.com/ghpvc/?username=krishnapranayangara)
 About
 --------------
 I am a tech enthusiast. I love learning new technologies and exploring different subject matters like Quantum Computing, Neuromorphic Computing, and Artificial Intelligence. I love to write articles and educate people on my findings. 
